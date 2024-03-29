@@ -1,2 +1,2 @@
-# movie-search-rest-api
+# Movie search rest api
 Simple REST API project using javascript
